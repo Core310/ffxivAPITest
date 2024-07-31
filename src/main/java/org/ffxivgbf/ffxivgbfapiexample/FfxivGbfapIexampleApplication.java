@@ -9,4 +9,4 @@ public class FfxivGbfapIexampleApplication {
     public static void main(String[] args) {
         SpringApplication.run(FfxivGbfapIexampleApplication.class, args);
     }
-}
+} 
